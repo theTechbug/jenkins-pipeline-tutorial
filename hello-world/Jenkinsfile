@@ -8,22 +8,22 @@ pipeline {
         }
         stage('Compile') {
             steps {
-                echo 'Compile the source code' 
+                echo 'Krishnal is a good buoy' 
             }
         }
         stage('Security Check') {
             steps {
-                echo 'Run the security check against the application' 
+                echo 'YJHD >>>>>> ZNMD' 
             }
         }
         stage('Run Unit Tests') {
             steps {
-                echo 'Run unit tests from the source code' 
+                echo 'Can I be any more funnier???' 
             }
         }
         stage('Run Integration Tests') {
             steps {
-                echo 'Run only crucial integration tests from the source code' 
+                echo 'My Eyes!!!! My Eyes!!!!!' 
             }
         }
         stage('Publish Artifacts') {
